@@ -10,8 +10,8 @@
 
 | Mục | Nội dung |
 |-----|----------|
-| Họ và tên | (điền họ tên) |
-| Mã học viên | (điền mã học viên) |
+| Họ và tên | Giáp Hoàng Thịnh |
+| Mã học viên | 2A202601492 |
 | Repo | (điền link repo K4-DAY12-...) |
 
 ## Service
